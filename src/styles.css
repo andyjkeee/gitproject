@@ -1,6 +1,6 @@
-h1 {
-    color: green;
-    background: black;
+span {
+    color: red;
+    border: 1px solid blue;
 }
 
 div {
